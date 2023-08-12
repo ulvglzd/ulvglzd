@@ -13,11 +13,7 @@ Hi, I'm Ulvi Guluzada!
 	</a>
 </p>
 <br/>
-<p align="center">
-	<a href="https://github.com/ulvglzd">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Self+Taught+Developer;Enginner%20|%20Problem Solver%20|%20Lifelong learner%20&center=true&width=380&height=45">
-	</a>
-</p>
+
 
 <hr>
 
