@@ -16,7 +16,8 @@ Hi, I'm Ulvi Guluzada!
 
 
 ### 👨‍💻 About Me
-I'm a passionate Java developer with over 4 years of experience in drilling engineering and team leading roles. Driven by a desire to explore new horizons, I recently made a career switch and quit my job to dive into the world of software development. I'm excited to leverage my analytical skills and problem-solving mindset to create innovative solutions in the tech industry.
+I'm a self-taught Java developer who embarked on an exciting journey by switching careers to dive into the world of software development. With a strong passion for programming, I recently made a career switch and quit my job to dive into the world of software development.
+I have over 4 years of experience in drilling engineering and team leading roles. I'm excited to leverage my analytical skills and problem-solving mindset to create innovative solutions in the tech industry.
 
 <pre>
 📚 I have a BSc and MSc in Engineering from Heriot-Watt University and Baku Higher Oil School
