@@ -27,11 +27,12 @@ I'm a passionate Java developer with over 4 years of experience in drilling engi
 <hr>
 
 ### 🛠️ Languages and Tools:
-
-- 💻 Java | Spring Boot | Thymeleaf
-- 📊 JDBC | SQL | MySQL
-- 🌐 HTML | CSS
-- 🛠 Git | GitHub
+<pre>
+💻 Java | Spring Boot | Thymeleaf
+📊 JDBC | SQL | MySQL
+🌐 HTML | CSS
+🛠 Git | GitHub
+</pre>
 
 ### 📩 Contact me
 <p align="center">
