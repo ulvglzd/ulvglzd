@@ -33,6 +33,7 @@ I'm a passionate Java developer with over 4 years of experience in drilling engi
 🌐 HTML | CSS
 🛠 Git | GitHub
 </pre>
+<hr>
 
 ### 📩 Contact me
 <p align="center">
