@@ -15,7 +15,7 @@ Hi, I'm Ulvi Guluzada!
 
 
 
-### About Me
+###👨‍💻 About Me
 I'm a passionate Java developer with over 4 years of experience in drilling engineering and team leading roles. Driven by a desire to explore new horizons, I recently made a career switch and quit my job to dive into the world of software development. I'm excited to leverage my analytical skills and problem-solving mindset to create innovative solutions in the tech industry.
 
 <pre>
@@ -33,7 +33,7 @@ I'm a passionate Java developer with over 4 years of experience in drilling engi
 - 🌐 HTML | CSS
 - 🛠 Git | GitHub
 
-### Connect with me
+### 📩 Contact me
 <p align="center">
 	<a href="mailto:ulviguluzada@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/ulviguluzada/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
