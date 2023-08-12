@@ -20,8 +20,8 @@ I'm a passionate Java developer with over 4 years of experience in drilling engi
 
 <pre>
 📚 I have a BSc and MSc in Engineering from Heriot-Watt University and Baku Higher Oil School
-🔭 Working on web-based projects that solve real-world problems.
-💡  Learning and adopting new technologies to enhance my skill set.
+🔭 Curently working on web-based projects
+💡 Learning and adopting new technologies to enhance my skill set.
 🤔 I’m currently open for: Junior or intern positions
 </pre>
 <hr>
