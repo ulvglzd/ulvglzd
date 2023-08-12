@@ -12,7 +12,7 @@ Hi, I'm Ulvi Guluzada!
 		<img src="https://img.shields.io/github/followers/ulvglzd?label=Followers" alt="ulvglzd" />
 	</a>
 </p>
-<br/>
+
 
 
 <hr>
