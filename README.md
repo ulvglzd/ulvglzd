@@ -16,14 +16,11 @@ Hi, I'm Ulvi Guluzada!
 
 
 ### About Me
-I'm a passionate Java developer with over 4 years of experience in drilling engineering and team leading roles. During this period, I personally planned and successfully completed several large-scale projects, demonstrating my ability to manage complex tasks and lead teams to success.
-Driven by a desire to explore new horizons, I recently made a career switch and quit my job to dive into the world of software development. I'm excited to leverage my analytical skills and problem-solving mindset to create innovative solutions in the tech industry.
+I'm a passionate Java developer with over 4 years of experience in drilling engineering and team leading roles. Driven by a desire to explore new horizons, I recently made a career switch and quit my job to dive into the world of software development. I'm excited to leverage my analytical skills and problem-solving mindset to create innovative solutions in the tech industry.
 
 <pre>
-💻 I am a self taught Backend Developer 
 📚 I have a BSc and MSc in Engineering from Heriot-Watt University and Baku Higher Oil School
-📝 I have over 4 years of experience in engineering and management positions
-🔭 Working on Deep Learning & Machine Learning
+🔭 Working on web-based projects to sharpen my skills
 🌱 Learning new back-end focused technologies
 🤔 I’m currently open for: Junior or intern positions
 </pre>
