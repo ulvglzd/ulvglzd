@@ -23,7 +23,7 @@ I have over 4 years of experience in drilling engineering and team leading roles
 📚 I hold BSc and MSc in Petroleum Engineering from Heriot-Watt University and Baku Higher Oil School
 🔭 Curently working on building web applications
 💡 Learning and adopting new technologies to enhance my skill set.
-🤔 I’m currently open for: Junior or intern positions
+🔍 I’m currently open for: Junior or intern positions
 </pre>
 <hr>
 
