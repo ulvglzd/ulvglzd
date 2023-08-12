@@ -16,12 +16,12 @@ Hi, I'm Ulvi Guluzada!
 
 
 ### 👨‍💻 About Me
-I'm a self-taught Java developer who swithced careers to dive into the world of software development.
+I'm a self-taught Java developer who switched careers to dive into the world of software development.
 I have over 4 years of experience in drilling engineering and team leading roles. I'm excited to leverage my analytical skills and problem-solving mindset to create innovative solutions in the tech industry.
 
 <pre>
-📚 I have a BSc and MSc in Engineering from Heriot-Watt University and Baku Higher Oil School
-🔭 Curently working on web-based projects
+📚 I hold BSc and MSc in Petroleum Engineering from Heriot-Watt University and Baku Higher Oil School
+🔭 Curently working on building web applications
 💡 Learning and adopting new technologies to enhance my skill set.
 🤔 I’m currently open for: Junior or intern positions
 </pre>
