@@ -37,10 +37,13 @@ I'm a passionate Java developer with over 4 years of experience in drilling engi
 
 
 <p align="center">
-    <a href="https://github.com/ulvglzd"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></a>
-    <a href="https://github.com/ulvglzd"><img alt="Spring" src="https://img.shields.io/badge/Spring%20Boot%20-%2334A853.svg?logo=Springboot&logoColor=white"></a>
+    <a href="https://github.com/ulvglzd"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" width="40" height="40"></a>
+    <a href="https://github.com/ulvglzd"><img alt="Spring" src="https://img.shields.io/badge/Spring%20Boot%20-%2334A853.svg?logo=Springboot&logoColor=white" width="40" height="40"></a>
+    <a href="https://github.com/ulvglzd"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" width="40" height="40"></a>
+    <a href="https://github.com/ulvglzd"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+	
     <a href="https://github.com/ulvglzd"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23150458.svg?logo=Bootstrap&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
+    <a href="https://github.com/ulvglzd"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
 </p>
 
 
