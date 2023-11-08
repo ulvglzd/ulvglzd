@@ -29,10 +29,10 @@ I have over 4 years of experience in drilling engineering and team leading roles
 
 ### 🛠️ Languages and Tools:
 <pre>
-💻 Java | Spring Boot | Spring Data | Thymeleaf
-📊 JDBC | SQL | MySQL
-🌐 HTML | CSS | Bootstrap 
-🛠 Git | GitHub
+💻 Java | Spring Boot | Spring Data | Spring Security
+📊 JDBC | SQL | MySQL | PostgreSQL
+🌐 HTML | CSS | Bootstrap | Thymeleaf
+🛠 Git | GitHub | GitLab
 	
 </pre>
 <hr>
