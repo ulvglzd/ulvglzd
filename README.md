@@ -16,21 +16,21 @@ Hi, I'm Ulvi Guluzada!
 
 
 ### 👨‍💻 About Me
-I'm a self-taught Java developer who switched careers to dive into the world of software development.
-I have over 4 years of experience in drilling engineering and team leading roles. I'm excited to leverage my analytical skills and problem-solving mindset to create innovative solutions in the tech industry.
+I am a self-taught and passionate back-end developer adept at handling projects across various domains. I specialize in application development using Spring Boot, Spring Security, and Spring Data, and am skilled in designing and integrating REST APIs.
+
+My previous career as a manager and engineer in drilling industry encompasses nearly 5 years of experience in high-pressure and fast-paced environment, equipping me with a strong engineering aptitude and invaluable soft skills, particularly in problem-solving, adaptability, and handling time-sensitive tasks.
 
 <pre>
 📚 I hold BSc and MSc in Petroleum Engineering from Heriot-Watt University and Baku Higher Oil School
 🔭 Working on building web applications
 💡 Learning and adopting new technologies to enhance my skill set.
-🔍 I’m currently open for: Junior or intern positions as a backend developer
 </pre>
 <hr>
 
 ### 🛠️ Languages and Tools:
 <pre>
 💻 Java | Spring Boot | Spring Data | Spring Security
-📊 JDBC | SQL | MySQL | PostgreSQL
+📊 Hibernate | SQL | MySQL | PostgreSQL | JPA
 🌐 HTML | CSS | Bootstrap | Thymeleaf
 🛠 Git | GitHub | GitLab
 	
