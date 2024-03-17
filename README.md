@@ -20,11 +20,6 @@ I am a self-taught and passionate back-end developer adept at handling projects 
 
 My previous career as a manager and engineer in drilling industry encompasses nearly 5 years of experience in high-pressure and fast-paced environment, equipping me with a strong engineering aptitude and invaluable soft skills, particularly in problem-solving, adaptability, and handling time-sensitive tasks.
 
-<pre>
-📚 I hold BSc and MSc in Petroleum Engineering from Heriot-Watt University and Baku Higher Oil School
-🔭 Working on building web applications
-💡 Learning and adopting new technologies to enhance my skill set.
-</pre>
 <hr>
 
 ### 🛠️ Languages and Tools:
